@@ -19,3 +19,9 @@ Currently any product modifications / cart additions must be done pre-compilatio
 
 A dynamic CLI-based shop would be implemented in the near future, however due to time constraints, this is the
 current API put in place.
+
+## Notes
+While the codebase is currently limited, the code styling makes up for the lack of substance.
+The ```Product.java``` and ```Cart.java``` files demonstrate my unique method of programming.
+
+Additionally, I would like to thank Shopify for taking the time to review this submission.
