@@ -12,7 +12,7 @@ Once compiled, you can run the following to begin testing store's products:
 ## Cart Unit Testing
 Once compiled, you can run the following to begin testing the store's cart:
 
-```java TestProduct```
+```java TestCart```
 
 ## API Functionality
 Currently any product modifications / cart additions must be done pre-compilation, rather than at run-time.
