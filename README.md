@@ -22,6 +22,7 @@ current API put in place.
 
 ## Notes
 While the codebase is currently limited, the code styling makes up for the lack of substance.
-The ```Product.java``` and ```Cart.java``` files demonstrate my unique method of programming.
+
+The ```Product.java``` and ```Cart.java``` files demonstrate my unique method of programming. I would like to believe my code simply speaks for itself.
 
 Additionally, I would like to thank Shopify for taking the time to review this submission.
